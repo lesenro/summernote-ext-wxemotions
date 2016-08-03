@@ -1,0 +1,33 @@
+.emotion_wrp .emotionsGif {
+    position: absolute;
+    top: 0;
+    right: -40px;
+    border: 1px solid #c0bfc5;
+    padding: 7px;
+    background-color: #fff;
+}
+
+.panel-heading.note-toolbar .emotion_wrp .dropdown-menu {
+    min-width: 418px;
+}
+
+.emotions_item {
+    float: left;
+    line-height: 27px;
+    height: 27px;
+    font-size: 0;
+    text-align: center;
+    width: 27px;
+    border-bottom: 1px solid #c0bfc5;
+    border-left: 1px solid #c0bfc5;
+    background-color: #fff;
+}
+
+.emotions_item i {
+    display: inline-block;
+    cursor: pointer;
+    width: 24px;
+    height: 24px;
+    vertical-align: middle;
+    background: transparent url(https://res.wx.qq.com/mpres/htmledition/images/icon/emotion/default218877.gif) no-repeat 0 0;
+}
